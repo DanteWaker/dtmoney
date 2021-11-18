@@ -1,0 +1,41 @@
+{
+  "tabWidth": 4,
+  "overrides": [
+    {
+      "files": "*.tsx",
+      "options": {
+        "tabWidth": 2
+      }
+    },
+    {
+      "files": "*.ts",
+      "options": {
+        "tabWidth": 2
+      }
+    },
+    {
+      "files": "*.jsx",
+      "options": {
+        "tabWidth": 2
+      }
+    },
+    {
+      "files": "*.js",
+      "options": {
+        "tabWidth": 2
+      }
+    },
+    {
+      "files": "*.yml",
+      "options": {
+        "tabWidth": 2
+      }
+    },
+    {
+      "files": "*.json",
+      "options": {
+        "tabWidth": 2
+      }
+    }
+  ]
+}
